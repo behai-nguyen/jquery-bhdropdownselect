@@ -1,0 +1,45 @@
+.dropdown-select.modal {
+	max-width: 500px;
+    max-height: 315px;
+    width: 500px;
+    height: 315px;
+}
+
+/*
+    The following should not be modified.
+*/
+.dropdown-select .modal-dialog {
+    margin: 0rem;
+    max-height: 100%;
+    height: 100%;
+}
+
+.dropdown-select .modal-dialog .modal-content .modal-body {
+	position: relative;
+	padding: 15px;
+    overflow-y: auto;
+}
+
+.dropdown-select .item-normal {
+    background-color: transparent;
+	cursor: default;
+}
+
+.dropdown-select .item-highlight {
+    background-color: gray;
+    cursor: pointer;
+}
+
+/* Themes. */
+.theme-safe {}
+
+.dropdown-select.theme-eyesore .modal-header { background-color: cyan; }
+
+.dropdown-select.theme-eyesore .modal-body { background-color: lemonchiffon; }
+
+.dropdown-select.theme-eyesore .item-highlight { 
+    background-color: lightblue; 
+	font-style: italic;
+}
+
+.dropdown-select.theme-eyesore .item-normal { font-style: normal; }
