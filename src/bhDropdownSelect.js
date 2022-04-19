@@ -9,8 +9,7 @@
  *                  http://www.opensource.org/licenses/mit-license.php
  *                  http://www.gnu.org/licenses/gpl.html
  *
- * @link            https://behainguyen.wordpress.com/????
- * @github          http://github.com/????
+ * @github          https://github.com/behai-nguyen/jquery-bhdropdownselect/
  * @version         1.0.0
  *
  ******************************************/
