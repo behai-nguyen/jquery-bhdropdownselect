@@ -69,7 +69,7 @@ Users can define their colour scheme such as **example02** as seen above.
 
 ## Example Usage
 
-The HTML files in the **“example”** should demonstrate how this plugin 
+The HTML files in the **“example”** directory should demonstrate how this plugin 
 can be used.
 
 ## Others
